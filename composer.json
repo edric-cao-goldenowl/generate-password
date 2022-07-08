@@ -1,0 +1,15 @@
+{
+    "name": "edric/generate",
+    "autoload": {
+        "psr-4": {
+            "Edric\\Generate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Edric",
+            "email": "edric.cao.goldenowl@gmail.com"
+        }
+    ],
+    "require": {}
+}
