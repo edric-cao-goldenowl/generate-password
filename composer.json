@@ -2,7 +2,7 @@
     "name": "edric/generate",
     "autoload": {
         "psr-4": {
-            "Edric\\Generate\\": "src/"
+            "Edric\\": "src/"
         }
     },
     "authors": [

@@ -9,11 +9,14 @@ class Generate
 
     public $level;
 
-    public function __construct()
+    public function __construct($lenght, $level)
     {
+        $this->lenght = $lenght;
+        $this->level = $level;
     }
 
     public function generator()
     {
+        return 4;
     }
 }
