@@ -17,5 +17,6 @@ class Generate
 
     public function generator()
     {
+        return 4;
     }
 }
